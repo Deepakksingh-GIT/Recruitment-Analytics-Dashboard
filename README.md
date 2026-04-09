@@ -118,6 +118,9 @@ Recruitment-Analytics-Dashboard/
 
 This project demonstrates an end-to-end data analytics workflow, from data extraction and cleaning to visualization and dashboard creation. It highlights how data can be used to improve recruitment strategies and decision-making.
 
+## 📊 Impact
+This dashboard enables data-driven hiring decisions by identifying high-performing candidate sources and improving recruitment efficiency.
+
 ---
 
 ## 👨‍💻 Author
