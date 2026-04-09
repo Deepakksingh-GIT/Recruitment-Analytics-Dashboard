@@ -1,0 +1,7 @@
+Candidate_ID,Source,Submission_Date,Interview_Date,Interview_Status,Offer_Status,Client,Position,Location,Experience,Aptitude_Score,Technical_Score,HR_Score,Department,Salary_LPA,Salary_INR
+1,LinkedIn,2025-01-01,2025-01-05,Selected,Offered,Tech Mahindra,Data Engineer,CA,0,68,48,56,Sales,7.32,732000.0
+2,Dice,2025-01-02,2025-01-06,Rejected,Not Offered,HCL,DevOps Engineer,TX,8,69,92,92,Data Science,6.91,691000.0
+4,LinkedIn,2025-01-04,2025-01-08,Selected,Offered,Wipro,Data Analyst,IL,0,45,53,92,Sales,8.78,877999.9999999999
+6,LinkedIn,2025-01-02,2025-01-05,Selected,Offered,Tech Mahindra,Data Engineer,CA,1,79,95,79,Sales,4.5,450000.0
+7,Dice,2025-01-03,2025-01-06,Rejected,Not Offered,HCL,DevOps Engineer,TX,0,91,55,83,Data Science,3.05,305000.0
+9,LinkedIn,2025-01-05,2025-01-08,Selected,Offered,Wipro,Data Analyst,IL,9,70,88,71,HR,9.56,956000.0
